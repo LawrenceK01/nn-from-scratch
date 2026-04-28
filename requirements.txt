@@ -1,0 +1,22 @@
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+contourpy @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_contourpy_1769156069/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_cycler_1764466758/work
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1763918002538/work
+fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1773137067435/work
+iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1760831328738/work
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_kiwisolver_1773067285/work
+matplotlib==3.10.8
+munkres==1.1.4
+numpy @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_numpy_1770098398/work/dist/numpy-2.4.2-cp314-cp314-macosx_11_0_arm64.whl#sha256=fbc00528defec6267457ea68d64f7a5899884dbd6ff45b260e2a55803bf540b8
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1769093650/work
+pillow @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_pillow_1770794152/work
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pluggy_1764896838/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1750615794071/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pyparsing_1769003998/work
+pytest @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pytest_1765062031/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+tomli @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_tomli_1768146676/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1765836485979/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1756220668/work
+unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1770909177692/work
